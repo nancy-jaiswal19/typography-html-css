@@ -47,8 +47,11 @@ nutrition-label-html-css/
 ---
 
 🙋‍♀️ About Me
+
 Hey there, I’m Nancy Jaiswal 👩‍💻
+
 🎓 BTech CSE Student | Learning Web Dev & DSA
+
 🌐 My GitHub
 
 I believe: "Consistency beats perfection" 💪
