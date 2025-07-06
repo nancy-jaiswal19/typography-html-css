@@ -5,12 +5,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-📍 [Live on GitHub Pages](https://nancy-jaiswal19.github.io/nutrition-label-html-css/)  
-_(You can inspect it — there’s zero Photoshop magic 😉)_
-
----
 
 ## 📦 What's Inside
 
